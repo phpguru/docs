@@ -3,4 +3,4 @@
 
 .. code-block:: sh
 
-   curl http://fastdl.mongodb.org/osx/mongodb-osx-x86_64-x.y.z.tgz > mongo.tgz
+   curl http://downloads.mongodb.org/osx/mongodb-osx-x86_64-x.y.z.tgz > mongo.tgz
