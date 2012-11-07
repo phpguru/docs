@@ -224,3 +224,4 @@ commands to insert a record in the "test" :term:`collection` of the
    > db.test.find()
 
 .. seealso:: ":program:`mongo`" and ":doc:`/reference/javascript`"
+.. seealso:: ":program:`mongo`" and ":doc:`/display/DOCS/Building+for+OS+X`"
